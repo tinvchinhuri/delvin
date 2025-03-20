@@ -1,1 +1,4 @@
-coding lesson 1
+console.log("____________");
+console.log("Rise & Shine!");
+console.log("It's a new day");
+console.log("____________");
